@@ -2293,6 +2293,7 @@ This list was initially populated using information from the following sources:
 | UniFlow | | | | | [UniFlow Security Advisory](https://www.uniflow.global/en/security/security-and-maintenance/) | | | |
 | Unify ATOS | | | | | [Unify ATOS Advisory](https://networks.unify.com/security/advisories/OBSO-2112-01.pdf) | | | |
 | Unimus | | | | | [Unimus Statement](https://forum.unimus.net/viewtopic.php?f=7&t=1390#top) | | | |
+| UiPath | | | | | [UiPath Statement](https://www.uipath.com/legal/trust-and-security/cve-2021-44228) | | | |
 | USSIGNAL MSP | | | | | [USSIGNAL MSP Statement](https://ussignal.com/blog/apache-log4j-vulnerability) | | | |
 | VArmour | | | | | [VArmour Statement](https://support.varmour.com/hc/en-us/articles/4416396248717-Log4j2-Emergency-Configuration-Change-for-Critical-Auth-Free-Code-Execution-in-Logging-Utility) | | | |
 | Varnish Software | | | | | [Varnish Software Security Notice](https://docs.varnish-software.com/security/CVE-2021-44228-45046/) | | | |
